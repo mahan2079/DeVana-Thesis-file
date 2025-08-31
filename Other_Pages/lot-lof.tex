@@ -1,0 +1,20 @@
+\makeatletter
+\newlength\mylena
+\settowidth\mylena{جدول}
+\addtolength\cfttabnumwidth{\mylena}
+\renewcommand\cfttabpresnum{\tableename\space}
+\renewcommand*\numberline[1]{\hb@xt@\@tempdima{جدول #1: \hfil}}
+\listoftables
+\makeatother
+\newpage
+\begingroup
+\makeatletter
+\newlength\mylenb
+\settowidth\mylenb{شکل}
+\addtolength\cftfignumwidth{\mylenb}
+\renewcommand\cftfigpresnum{\figurename\space}
+\renewcommand*\numberline[1]{\hb@xt@\@tempdima{شکل #1: \hfil}}
+\listoffigures
+\makeatother
+\endgroup
+\clearpage

@@ -1,0 +1,1690 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.3.6)  6 AUG 2025 10:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mybibrefs.tex
+(./mybibrefs.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+
+! LaTeX Error: Environment thebibliography undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{thebibliography}
+                           {10}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{thebibliography}{1
+                             0}
+? 
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+! Undefined control sequence.
+l.4 \persian
+            
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--5
+[] 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \bibitem{1}
+               
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.5 \bibitem{1}
+               
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.5 \bibitem{1}
+               
+? 
+\bibcite{1}{0}
+Missing character: There is no ق ("642) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ع ("639) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no آ ("622) in font nullfont!
+Missing character: There is no ذ ("630) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ، ("60C) in font nullfont!
+! Undefined control sequence.
+l.7 \newblock
+              \textit{جزوه‌ی آموزش سریع متمتیکا نسخه‌ی 7،}
+? 
+Missing character: There is no ج (U+062C) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ز (U+0632) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ‌ (U+200C) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no آ (U+0622) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ز (U+0632) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ک (U+06A9) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no خ (U+062E) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ‌ (U+200C) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ، (U+060C) in font [lmroman10-italic]:mapping=te
+x-text;!
+! Undefined control sequence.
+l.8 \newblock
+             
+? 
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ، ("60C) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 6--11
+\TU/lmr/m/it/10 جزوه‌ی
+ []
+
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 6--11
+\TU/lmr/m/it/10 آموزش
+ []
+
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 6--11
+\TU/lmr/m/it/10 سریع
+ []
+
+
+Overfull \hbox (19.6pt too wide) in paragraph at lines 6--11
+\TU/lmr/m/it/10 متمتیکا
+ []
+
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 6--11
+\TU/lmr/m/it/10 نسخه‌ی
+ []
+
+
+Overfull \hbox (7.91pt too wide) in paragraph at lines 6--11
+\TU/lmr/m/it/10 7،
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 6--11
+\OT1/cmr/m/n/10 1398$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \bibitem{2}
+                
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.12 \bibitem{2}
+                
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.12 \bibitem{2}
+                
+? 
+\bibcite{2}{0}
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ح ("62D) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ، ("60C) in font nullfont!
+! Undefined control sequence.
+l.14 \newblock
+               \textit{اصول رادار,}
+? 
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ص (U+0635) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-italic]:mapping=te
+x-text;!
+! Undefined control sequence.
+l.15 \newblock
+              
+? 
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no گ ("6AF) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ع ("639) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ص ("635) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ع ("639) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ، ("60C) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 13--18
+\TU/lmr/m/it/10 اصول
+ []
+
+
+Overfull \hbox (17.07pt too wide) in paragraph at lines 13--18
+\TU/lmr/m/it/10 رادار,
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 13--18
+\OT1/cmr/m/n/10 1370$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \bibitem{3}
+                
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.19 \bibitem{3}
+                
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.19 \bibitem{3}
+                
+? 
+\bibcite{3}{0}
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ح ("62D) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ض ("636) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ف ("641) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ، ("60C) in font nullfont!
+! Undefined control sequence.
+l.21 \newblock
+               \textit{اصول رادار,}
+? 
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ص (U+0635) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-italic]:mapping=te
+x-text;!
+! Undefined control sequence.
+l.22 \newblock
+              
+? 
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no آ ("622) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ، ("60C) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 20--25
+\TU/lmr/m/it/10 اصول
+ []
+
+
+Overfull \hbox (17.07pt too wide) in paragraph at lines 20--25
+\TU/lmr/m/it/10 رادار,
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 20--25
+\OT1/cmr/m/n/10 1389$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \bibitem{4}
+                
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.26 \bibitem{4}
+                
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.26 \bibitem{4}
+                
+? 
+\bibcite{4}{0}
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ع ("639) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ع ("639) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ش ("634) in font nullfont!
+Missing character: There is no ز ("632) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ، ("60C) in font nullfont!
+! Undefined control sequence.
+l.28 \newblock
+               \textit{اصول علمی و عملی رادار،}
+? 
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ص (U+0635) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-italic]:mapping=te
+x-text;!
+Missing character: There is no ، (U+060C) in font [lmroman10-italic]:mapping=te
+x-text;!
+! Undefined control sequence.
+l.29 \newblock
+               $1359$.
+? 
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 27--30
+\TU/lmr/m/it/10 اصول
+ []
+
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 27--30
+\TU/lmr/m/it/10 علمی
+ []
+
+
+Overfull \hbox (2.8pt too wide) in paragraph at lines 27--30
+\TU/lmr/m/it/10 و
+ []
+
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 27--30
+\TU/lmr/m/it/10 عملی
+ []
+
+
+Overfull \hbox (16.8pt too wide) in paragraph at lines 27--30
+\TU/lmr/m/it/10 رادار،
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 27--30
+\OT1/cmr/m/n/10 1359$ 
+ []
+
+! Undefined control sequence.
+l.31 \latin
+           
+? 
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \bibitem{5}
+                
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.32 \bibitem{5}
+                
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.32 \bibitem{5}
+                
+? 
+\bibcite{5}{0}
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no E ("45) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no H ("48) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no A ("41) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no w ("77) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no D ("44) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.34 \newblock
+               Neighborhoods of certain classes of analytic functions define...
+
+? 
+Missing character: There is no N ("4E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no z ("7A) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no L ("4C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.36 \newblock
+               {\em Journal of mathematical analysis and applications}, 55:1...
+
+? 
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (23.53pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 Jour-
+ []
+
+
+Overfull \hbox (13.29pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 nal
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (25.3pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 math-
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 e-
+ []
+
+
+Overfull \hbox (20.19pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 mat-
+ []
+
+
+Overfull \hbox (6.65pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (11.76pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 cal
+ []
+
+
+Overfull \hbox (21.98pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 anal-
+ []
+
+
+Overfull \hbox (8.44pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 y-
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 sis
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 ap-
+ []
+
+
+Overfull \hbox (14.32pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 pli-
+ []
+
+
+Overfull \hbox (12.78pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 ca-
+ []
+
+
+Overfull \hbox (21.21pt too wide) in paragraph at lines 33--38
+\TU/lmr/m/it/10 tions
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \bibitem{6}
+                
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.39 \bibitem{6}
+                
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.39 \bibitem{6}
+                
+? 
+\bibcite{6}{0}
+Missing character: There is no R ("52) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no G ("47) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no A ("41) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no A ("41) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no K ("4B) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no F ("46) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no V ("56) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no R ("52) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.41 \newblock
+               {\em {Mittag-Leffler} functions, related topics and applicati...
+
+? 
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.43 \newblock
+               Springer, 2014.
+? 
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (31.97pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 Mittag-
+ []
+
+
+Overfull \hbox (28.12pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 Leffler
+ []
+
+
+Overfull \hbox (22.24pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 func-
+ []
+
+
+Overfull \hbox (24.28pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 tions,
+ []
+
+
+Overfull \hbox (11.89pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (20.19pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 lated
+ []
+
+
+Overfull \hbox (17.12pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 top-
+ []
+
+
+Overfull \hbox (11.76pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 ics
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 ap-
+ []
+
+
+Overfull \hbox (14.32pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 pli-
+ []
+
+
+Overfull \hbox (12.78pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 ca-
+ []
+
+
+Overfull \hbox (21.21pt too wide) in paragraph at lines 40--44
+\TU/lmr/m/it/10 tions
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \bibitem{7}
+                
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.45 \bibitem{7}
+                
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.45 \bibitem{7}
+                
+? 
+\bibcite{7}{0}
+Missing character: There is no G ("47) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no L ("4C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.47 \newblock
+               Sur la nouvelle fonction {E$_\alpha(x)$}.
+? 
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no E ("45) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.48 \newblock
+               {\em CR Acad. Sci. Paris}, 137(2):554--558, 1903.
+? 
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 7 ("37) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (19.19183pt too wide) in paragraph at lines 46--49
+[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (14.45pt too wide) in paragraph at lines 46--49
+\TU/lmr/m/it/10 CR
+ []
+
+
+Overfull \hbox (24.3pt too wide) in paragraph at lines 46--49
+\TU/lmr/m/it/10 Acad.
+ []
+
+
+Overfull \hbox (16.36pt too wide) in paragraph at lines 46--49
+\TU/lmr/m/it/10 Sci.
+ []
+
+
+Overfull \hbox (23.27pt too wide) in paragraph at lines 46--49
+\TU/lmr/m/it/10 Paris
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \bibitem{8}
+                
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.50 \bibitem{8}
+                
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.50 \bibitem{8}
+                
+? 
+\bibcite{8}{0}
+Missing character: There is no G ("47) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no L ("4C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.52 \newblock
+               Sur la repr{\'e}sentation analytique d’une branche uniforme d...
+
+? 
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
+2.
+(c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for +lmr on input line 52.
+LaTeX Font Info:    No file lmr.fd. on input line 52.
+LaTeX Font Info:    Trying to load font information for +cmr on input line 52.
+LaTeX Font Info:    No file cmr.fd. on input line 52.
+
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 52.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 52.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.52 \newblock Sur la repr{\'e
+                              }sentation analytique d’une branche uniforme d...
+
+? 
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 52.
+
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 52.
+
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no ’ ("2019) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no ’ ("2019) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.54 \newblock
+               {\em Acta mathematica}, 29(1):101--181, 1905.
+? 
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (9.44444pt too wide) in paragraph at lines 51--55
+\OT1/lmr/m/n/10 ^^S\/lmr/m/n/10 e
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 51--55
+[]\/lmr/m/n/10 e
+ []
+
+
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 51--55
+[]\/lmr/m/n/10 e
+ []
+
+
+Overfull \hbox (19.95pt too wide) in paragraph at lines 51--55
+\TU/lmr/m/it/10 Acta
+ []
+
+
+Overfull \hbox (25.3pt too wide) in paragraph at lines 51--55
+\TU/lmr/m/it/10 math-
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 51--55
+\TU/lmr/m/it/10 e-
+ []
+
+
+Overfull \hbox (20.19pt too wide) in paragraph at lines 51--55
+\TU/lmr/m/it/10 mat-
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 51--55
+\TU/lmr/m/it/10 ica
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \bibitem{9}
+                
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.56 \bibitem{9}
+                
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.56 \bibitem{9}
+                
+? 
+\bibcite{9}{0}
+Missing character: There is no W ("57) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no R ("52) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.58 \newblock
+               {\em Real and complex analysis}.
+? 
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.59 \newblock
+               McGraw-hill Education, 3 edition, 1987.
+? 
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no G ("47) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no w ("77) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no E ("45) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 7 ("37) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.60 \newblock
+               Series in Higher Math.
+? 
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no H ("48) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (18.54001pt too wide) in paragraph at lines 57--61
+\TU/lmr/m/it/10 Real
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 57--61
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (20.96pt too wide) in paragraph at lines 57--61
+\TU/lmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (16.91pt too wide) in paragraph at lines 57--61
+\TU/lmr/m/it/10 plex
+ []
+
+
+Overfull \hbox (21.98pt too wide) in paragraph at lines 57--61
+\TU/lmr/m/it/10 anal-
+ []
+
+
+Overfull \hbox (8.44pt too wide) in paragraph at lines 57--61
+\TU/lmr/m/it/10 y-
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 57--61
+\TU/lmr/m/it/10 sis
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \bibitem{10}
+                 
+? 
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.62 \bibitem{10}
+                 
+? 
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.62 \bibitem{10}
+                 
+? 
+\bibcite{10}{0}
+Missing character: There is no G ("47) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.64 \newblock
+               Subclasses of univalent functions, {Complex analysis-fifth
+? 
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no R ("52) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no F ("46) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no P ("50) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no B ("42) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+! Undefined control sequence.
+l.66 \newblock
+               {\em Lecture Notes in Math}, 1013:367--372, 1983.
+? 
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 6 ("36) in font nullfont!
+Missing character: There is no 7 ("37) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 7 ("37) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+Overfull \hbox (18.03pt too wide) in paragraph at lines 63--67
+\TU/lmr/m/it/10 Lec-
+ []
+
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 63--67
+\TU/lmr/m/it/10 ture
+ []
+
+
+Overfull \hbox (24.55pt too wide) in paragraph at lines 63--67
+\TU/lmr/m/it/10 Notes
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 63--67
+\TU/lmr/m/it/10 in
+ []
+
+
+Overfull \hbox (22.51pt too wide) in paragraph at lines 63--67
+\TU/lmr/m/it/10 Math
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{thebibliography}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 \end{thebibliography}
+                          
+? 
+! Undefined control sequence.
+l.69 \persian
+             
+? 
+)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+! Emergency stop.
+<*> 
+    
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 73 strings out of 473840
+ 1459 string characters out of 5733402
+ 389387 words of memory out of 5000000
+ 23233 multiletter control sequences out of 15000+600000
+ 561788 words of font info for 38 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 24i,1n,32p,223b,130s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.

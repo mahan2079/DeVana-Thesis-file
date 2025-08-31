@@ -1,0 +1,142 @@
+\contentsline {chapter}{فهرست مطالب}{الف}{section*.2}%
+\contentsline {chapter}{فهرست جداول}{ث}{section*.3}%
+\contentsline {chapter}{فهرست تصاویر}{ج}{section*.4}%
+\contentsline {chapter}{فهرست نشانه‌های اختصاری}{ح}{chapter*.5}%
+\contentsline {chapter}{{فصل~اول:~} مقدمه و مروری بر کار دیگران}{1}{chapter.1}%
+\contentsline {section}{\numberline {1\lr {--}1}مقدمه}{2}{section.1.1}%
+\contentsline {section}{\numberline {1\lr {--}2}مبانی نظری جاذب‌های دینامیکی ارتعاش (دهه‌های ۱۹۲۰ تا ۱۹۵۰)}{3}{section.1.2}%
+\contentsline {section}{\numberline {1\lr {--}3}طراحی و بهینه‌سازی کلاسیک جاذب‌های دینامیکی ارتعاش (دهه ۱۹۶۰ تا ۲۰۰۰)}{4}{section.1.3}%
+\contentsline {section}{\numberline {1\lr {--}4}پیشرفت‌های جاذب‌های غیرفعال ارتعاش (۲۰۰۰ تا ۲۰۲۵)}{5}{section.1.4}%
+\contentsline {subsection}{\numberline {1\lr {--}4\lr {--}1}جاذب‌های پاندولی و مایع (گونه‌های مختلف \lr {TMD})}{5}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1\lr {--}4\lr {--}2}جاذب‌های چندگانه و توزیع‌شده}{6}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1\lr {--}4\lr {--}3}جاذب‌های انرژی غیرخطی و سایر جاذب‌های غیرخطی}{7}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1\lr {--}4\lr {--}4}جاذب‌های مبتنی بر \lr {Inerter} و عناصر با سختی منفی}{9}{subsection.1.4.4}%
+\contentsline {section}{\numberline {1\lr {--}5}جاذب‌های ارتعاش فعال، نیمه‌فعال و هیبریدی}{11}{section.1.5}%
+\contentsline {section}{\numberline {1\lr {--}6}هوش مصنوعی و یادگیری ماشین در طراحی و بهینه‌سازی جاذب‌های دینامیکی ارتعاش (۲۰۱۵-۲۰۲۵)}{13}{section.1.6}%
+\contentsline {subsection}{\numberline {1\lr {--}6\lr {--}1}بهینه‌سازی فراابتکاری پارامترهای جاذب ارتعاش}{13}{subsection.1.6.1}%
+\contentsline {section}{\numberline {1\lr {--}7}انگیزه تحقیق}{14}{section.1.7}%
+\contentsline {chapter}{{فصل~دوم:~} معادلات حاکمه سیستم‌های ارتعاشی و فرمول‌بندی مسئله بهینه‌سازی}{16}{chapter.2}%
+\contentsline {section}{\numberline {2\lr {--}1}معادلات حاکمه سیستم‌های ارتعاشی}{17}{section.2.1}%
+\contentsline {subsection}{\numberline {2\lr {--}1\lr {--}1}چارچوب عمومی و قابلیت تعمیم معادلات حاکم}{17}{subsection.2.1.1}%
+\contentsline {subsubsection}{قابلیت تعمیم به سیستم‌های چنددرجه آزادی}{17}{subsection.2.1.1}%
+\contentsline {subsubsection}{ادغام المان‌های پیشرفته مکانیکی}{17}{subsection.2.1.1}%
+\contentsline {subsubsection}{سازگاری با روش‌های بهینه‌سازی پیشرفته}{17}{subsection.2.1.1}%
+\contentsline {subsubsection}{قابلیت پیاده‌سازی در نرم‌افزار تخصصی}{17}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2\lr {--}1\lr {--}2}سیستم کاملاً کوپل شده \lr {2DOF-3DOF}}{18}{subsection.2.1.2}%
+\contentsline {subsubsection}{معماری سیستم و اجزای اصلی}{18}{subsection.2.1.2}%
+\contentsline {subsubsection}{فضای پارامتری و چالش‌های بهینه‌سازی}{19}{Item.10}%
+\contentsline {subsubsection}{فرضیات مدل‌سازی و شرایط مرزی}{19}{Item.14}%
+\contentsline {subsubsection}{استخراج معادلات حاکم}{20}{Item.21}%
+\contentsline {paragraph}{ماتریس جرم}{21}{equation.2.3}%
+\contentsline {paragraph}{ماتریس دمپینگ}{21}{equation.2.4}%
+\contentsline {paragraph}{ماتریس سختی}{22}{equation.2.5}%
+\contentsline {paragraph}{بردار نیرو}{22}{equation.2.6}%
+\contentsline {subsubsection}{صورت بی‌بعد}{22}{equation.2.7}%
+\contentsline {paragraph}{ماتریس جرم بی‌بعد}{23}{equation.2.8}%
+\contentsline {paragraph}{ماتریس دمپینگ بی‌بعد}{24}{equation.2.9}%
+\contentsline {paragraph}{ماتریس سختی بی‌بعد}{24}{equation.2.10}%
+\contentsline {paragraph}{بردار نیروی بی‌بعد}{24}{equation.2.11}%
+\contentsline {paragraph}{راه‌حل‌های نیم تحلیلی برای تحریک هارمونیک}{25}{equation.2.12}%
+\contentsline {subsection}{\numberline {2\lr {--}1\lr {--}3}مدل مرجع کاهش‌یافته \lr {1DOF-1DOF}}{26}{subsection.2.1.3}%
+\contentsline {subsubsection}{ضرورت استفاده از مدل کاهش‌یافته}{26}{subsection.2.1.3}%
+\contentsline {subsubsection}{معماری سیستم و ویژگی‌های طراحی}{26}{subsection.2.1.3}%
+\contentsline {subsubsection}{نقش در ارزیابی معیارهای عملکرد}{26}{Item.26}%
+\contentsline {section}{\numberline {2\lr {--}2}فرمول‌بندی مسئله بهینه‌سازی}{27}{section.2.2}%
+\contentsline {subsection}{\numberline {2\lr {--}2\lr {--}1}تعریف مسئله بهینه‌سازی}{27}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2\lr {--}2\lr {--}2}تعریف تابع هدف}{28}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2\lr {--}3}پیوند با روش‌های بهینه‌سازی و پیاده‌سازی}{31}{section.2.3}%
+\contentsline {subsection}{\numberline {2\lr {--}3\lr {--}1}سازگاری با الگوریتم ژنتیک پیشرفته}{31}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2\lr {--}3\lr {--}2}پیاده‌سازی در نرم‌افزار DeVana}{31}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2\lr {--}3\lr {--}3}اهمیت عمومیت رویکرد ارائه‌شده}{32}{subsection.2.3.3}%
+\contentsline {chapter}{{فصل~سوم:~} طراحی جاذب های دینامیکی ارتعاش به کمک بهینه‌سازی شیب-قله و مدل جانشین}{33}{chapter.3}%
+\contentsline {section}{\numberline {3\lr {--}1}مقدمه}{34}{section.3.1}%
+\contentsline {subsubsection}{رویکرد جداسازی پارامتری}{34}{section.3.1}%
+\contentsline {subsubsection}{روش‌شناسی ارزیابی}{35}{section.3.1}%
+\contentsline {section}{\numberline {3\lr {--}2}معیار شیب-قله (\lr {Peak-Slope})}{35}{section.3.2}%
+\contentsline {subsection}{\numberline {3\lr {--}2\lr {--}1}تعریف عمومی \lr {PS} }{36}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3\lr {--}2\lr {--}2}نمایش ماتریسی، برداری و اسکالر برای چند قله}{36}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3\lr {--}2\lr {--}3}فرم اسکالر ساده‌شده از \lr {PS}}{37}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3\lr {--}3}تفسیر فیزیکی و رویکرد جداسازی پارامتری}{38}{section.3.3}%
+\contentsline {subsection}{\numberline {3\lr {--}3\lr {--}1}تفسیر فیزیکی معیار \lr {PS}}{38}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3\lr {--}3\lr {--}2}جداسازی ساختار معیار \lr {PS}}{38}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3\lr {--}3\lr {--}3}الگوریتم استخراج توابع جداسازی‌شده}{41}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3\lr {--}4}تحلیل عددی و اعتبارسنجی}{43}{section.3.4}%
+\contentsline {subsection}{\numberline {3\lr {--}4\lr {--}1}سیستم مرجع و پارامترهای پایه}{43}{subsection.3.4.1}%
+\contentsline {subsubsection}{پارامترهای سیستم مرجع}{43}{subsection.3.4.1}%
+\contentsline {subsubsection}{تابع جداسازی‌شده شیب-قله}{44}{table.caption.11}%
+\contentsline {subsubsection}{شرایط اولیه}{44}{equation.3.15}%
+\contentsline {subsubsection}{محدوده تعریف پارامترها}{45}{equation.3.16}%
+\contentsline {subsubsection}{روند تکراری به‌روزرسانی زیرتوابع}{45}{equation.3.17}%
+\contentsline {subsubsection}{مدل‌سازی جانشین زیرتوابع}{45}{equation.3.18}%
+\contentsline {subsubsection}{ارزیابی کارایی مدل‌های تقریب‌زا}{46}{equation.3.18}%
+\contentsline {subsection}{\numberline {3\lr {--}4\lr {--}2}مقایسه با روش‌های مرجع و ارزیابی عملکرد}{47}{subsection.3.4.2}%
+\contentsline {subsubsection}{مقایسه با الگوریتم ژنتیک}{47}{subsection.3.4.2}%
+\contentsline {subsubsection}{اعتبارسنجی با مدل‌های تحلیلی مرتبه پایین}{49}{figure.caption.15}%
+\contentsline {section}{\numberline {3\lr {--}5}کاتالوگ‌های طراحی تعمیم‌یافته}{51}{section.3.5}%
+\contentsline {subsection}{\numberline {3\lr {--}5\lr {--}1}الگوریتم کاتالوگ‌سازی و کاربردهای تعمیم‌یافته}{51}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3\lr {--}6}کاتالوگ تعمیم‌یافته مبتنی بر \lr {DPS} و تحلیل حساسیت سازه‌ای}{54}{section.3.6}%
+\contentsline {subsection}{\numberline {3\lr {--}6\lr {--}1}دامنه و محدودیت‌ها}{54}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3\lr {--}6\lr {--}2}روش تحلیل حساسیت سازه‌ای با \lr {DVA} ثابت}{55}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3\lr {--}6\lr {--}3}شاخص‌ها و نمادگذاری}{56}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3\lr {--}6\lr {--}4}نتایج و برداشت‌های کلیدی}{56}{subsection.3.6.4}%
+\contentsline {section}{\numberline {3\lr {--}7}جمع‌بندی و نتیجه‌گیری}{60}{section.3.7}%
+\contentsline {subsection}{\numberline {3\lr {--}7\lr {--}1}دستاوردهای کلیدی}{60}{subsection.3.7.1}%
+\contentsline {subsubsection}{نوآوری‌های اصلی}{60}{subsection.3.7.1}%
+\contentsline {subsubsection}{مزایای عملی}{60}{Item.69}%
+\contentsline {subsection}{\numberline {3\lr {--}7\lr {--}2}ارتباط با فصل‌های بعدی}{60}{subsection.3.7.2}%
+\contentsline {chapter}{{فصل~چهارم:~} طراحی جاذب دینامیکی ارتعاش سیستم کاهش مرتبه یافته 2 درجه آزادی به کمک الگوریتم ژنتیک }{62}{chapter.4}%
+\contentsline {subsubsection}{پارامترهای سامانه بنچمارک}{63}{chapter.4}%
+\contentsline {subsubsection}{پیکربندی الگوریتم ژنتیک}{63}{table.caption.31}%
+\contentsline {section}{\numberline {4\lr {--}1}نتایج و بحث}{64}{section.4.1}%
+\contentsline {subsection}{\numberline {4\lr {--}1\lr {--}1}پاسخ فرکانسی و پارامترهای بهینه \lr {DVA}}{64}{subsection.4.1.1}%
+\contentsline {paragraph}{بردار پارامترهای بهینه}{65}{figure.caption.32}%
+\contentsline {paragraph}{همگراییِ \lr {GA} و تحلیلِ برازندگی}{65}{figure.caption.32}%
+\contentsline {subsection}{\numberline {4\lr {--}1\lr {--}2}نقش جریمه تنکی و تحلیل روندها}{67}{subsection.4.1.2}%
+\contentsline {paragraph}{نرخ بهبود به‌ازای هر نسل}{67}{subsection.4.1.2}%
+\contentsline {paragraph}{روند همگراییِ \(\mu _1\)}{67}{figure.caption.35}%
+\contentsline {paragraph}{همگراییِ پارامترها به‌تفکیک}{68}{figure.caption.36}%
+\contentsline {paragraph}{تحليل پارامترهاي \(\beta \) در شكل \ref {fig:beta_convergence}}{68}{figure.caption.39}%
+\contentsline {paragraph}{تحلیل پارامترهای \(\lambda \) در شکل \ref {fig:lambda_convergence}}{69}{figure.caption.42}%
+\contentsline {paragraph}{تحليل پارامترهاي $\nu $ در شكل‌هاي \ref {fig:nu_convergence}(a)–(c)}{70}{figure.caption.45}%
+\contentsline {section}{\numberline {4\lr {--}2}جمع‌بندي}{72}{section.4.2}%
+\contentsline {chapter}{{فصل~پنجم:~} معرفی نرم‌افزار نوآورانه \lr {DeVana}}{77}{chapter.5}%
+\contentsline {section}{\numberline {5\lr {--}1}چالش عدم تکرارپذیری نتایج بهینه‌سازی}{78}{section.5.1}%
+\contentsline {section}{\numberline {5\lr {--}2}نیاز به مفهوم «زمین بازی» برای طراحان}{78}{section.5.2}%
+\contentsline {section}{\numberline {5\lr {--}3}معرفی \lr {DeVana}: اولین نرم‌افزار از نوع خود}{78}{section.5.3}%
+\contentsline {section}{\numberline {5\lr {--}4}قابلیت‌های بهینه‌سازی در \lr {DeVana}}{79}{section.5.4}%
+\contentsline {subsection}{\numberline {5\lr {--}4\lr {--}1}الگوریتم ژنتیک (\lr {Genetic Algorithm - GA})}{79}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5\lr {--}4\lr {--}2}بهینه‌سازی ازدحام ذرات (\lr {Particle Swarm Optimization - PSO})}{79}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5\lr {--}4\lr {--}3}تفاوت‌گیری (\lr {Differential Evolution - DE})}{79}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5\lr {--}4\lr {--}4}شبیه‌سازی آنیلینگ (\lr {Simulated Annealing - SA})}{79}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5\lr {--}4\lr {--}5}استراتژی‌های تکاملی (\lr {Covariance Matrix Adaptation Evolution Strategy - CMA-ES})}{80}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {5\lr {--}4\lr {--}6}یادگیری تقویتی (\lr {Reinforcement Learning - RL})}{80}{subsection.5.4.6}%
+\contentsline {section}{\numberline {5\lr {--}5}قابلیت‌های تحلیل حساسیت}{80}{section.5.5}%
+\contentsline {subsection}{\numberline {5\lr {--}5\lr {--}1}تحلیل حساسیت سوبول (\lr {Sobol Sensitivity Analysis})}{80}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5\lr {--}5\lr {--}2}تحلیل حساسیت امگا (\lr {Omega Sensitivity Analysis})}{80}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5\lr {--}6}قابلیت‌های تحلیل آماری}{80}{section.5.6}%
+\contentsline {subsection}{\numberline {5\lr {--}6\lr {--}1}آمار توصیفی نتایج}{81}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5\lr {--}6\lr {--}2}تحلیل توزیع احتمالاتی}{81}{subsection.5.6.2}%
+\contentsline {subsection}{\numberline {5\lr {--}6\lr {--}3}مقایسه روش‌های مختلف}{81}{subsection.5.6.3}%
+\contentsline {section}{\numberline {5\lr {--}7}ساختار نرم‌افزاری \lr {DeVana}}{81}{section.5.7}%
+\contentsline {subsection}{\numberline {5\lr {--}7\lr {--}1}معماری کلی}{81}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5\lr {--}7\lr {--}2}شاخص‌بندی ساختار نرم‌افزار}{81}{subsection.5.7.2}%
+\contentsline {subsection}{\numberline {5\lr {--}7\lr {--}3}توضیح ساختار}{83}{subsection.5.7.3}%
+\contentsline {subsubsection}{لایه اجرایی (\lr {Execution Layer})}{83}{subsection.5.7.3}%
+\contentsline {subsubsection}{لایه کارگران (\lr {Workers Layer})}{83}{subsection.5.7.3}%
+\contentsline {subsubsection}{لایه رابط کاربری (\lr {GUI Layer})}{83}{subsection.5.7.3}%
+\contentsline {subsubsection}{لایه کاربردی (\lr {Modules Layer})}{83}{subsection.5.7.3}%
+\contentsline {subsubsection}{لایه دامنه (\lr {Domain Layer})}{83}{subsection.5.7.3}%
+\contentsline {section}{\numberline {5\lr {--}8}نتیجه‌گیری}{83}{section.5.8}%
+\contentsline {chapter}{{فصل~ششم:~} نتیجه‌گیری و چشم‌اندازهای آینده}{85}{chapter.6}%
+\contentsline {section}{\numberline {6\lr {--}1}مرور کلی پژوهش و دستاوردهای اصلی}{86}{section.6.1}%
+\contentsline {section}{\numberline {6\lr {--}2}نوآوری‌های کلیدی و دستاوردهای علمی}{86}{section.6.2}%
+\contentsline {section}{\numberline {6\lr {--}3}نرم‌افزار \lr {DeVana}: دستاوردی انقلابی در طراحی \lr {DVA}}{87}{section.6.3}%
+\contentsline {section}{\numberline {6\lr {--}4}چشم‌اندازهای آینده و مسیرهای پژوهشی}{88}{section.6.4}%
+\contentsline {section}{\numberline {6\lr {--}5}تأثیر علمی و مهندسی پژوهش}{89}{section.6.5}%
+\contentsline {section}{\numberline {6\lr {--}6}بازتاب نهایی و توصیه‌های کاربردی}{90}{section.6.6}%
+\contentsline {chapter}{کتاب‌نامه}{92}{chapter*.51}%
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{105}{chapter*.52}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی }{106}{chapter*.53}%
+\renewcommand \cftchapnumwidth {1.7em}
+\contentsline {chapter}{پیوست {الف:} عنوان بخش پیوست وارد شود}{107}{appendix.Alph1}%
+\contentsfinish 

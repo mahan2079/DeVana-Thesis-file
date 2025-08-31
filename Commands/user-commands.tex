@@ -1,0 +1,108 @@
+%-- نحوه‌ی تعریف و نمایش قضایا و تعاریف و غیره
+\newtheorem{theorem}{قضیه}[section]
+\renewcommand{\thetheorem}{\thesection\lr{--}\arabic{theorem}}
+
+\newtheorem{lemma}[theorem]{لم}
+\newtheorem{gh}[theorem]{قرارداد}
+\newtheorem{hads}[theorem]{حدس}
+\newtheorem{pro}[theorem]{گزاره}
+\newtheorem{result}[theorem]{نتیجه}
+\newtheorem{cor}[theorem]{فرع}
+
+\theoremstyle{definition}
+\newtheorem{exam}[theorem]{مثال}
+\newtheorem{defi}[theorem]{تعریف}
+\newtheorem{notee}[theorem]{تذکر}
+\newtheorem{note}[theorem]{نکته}
+\newtheorem{algor}[theorem]{الگوریتم}
+\newtheorem*{solve}{حل}
+
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{تبصره}
+\newtheorem{tamrin}[theorem]{تمرین}
+\newtheorem{yad}[theorem]{یادآوری}
+
+%-- تبدیل واژه‌ی اثبات به برهان
+\renewcommand\proofname{\bf برهان}
+%-- دستوری برای تغییر نام کلمه «کتاب‌نامه» به «مراجع» 
+\renewcommand{\bibname}{مراجع}
+
+%----------------------------------------------
+%-- Adds Qaher's commands, Some USEFUL COMMANDS
+%----------------------------------------------
+\newcommand{\op}{\operatorname}
+
+\newcommand{\Mod}{\op{mod}}
+\newcommand{\Image}{\op{Im}}
+\newcommand{\Id}{\op{Id}}
+\newcommand{\cl}{\op{cl}}
+\newcommand{\innt}{\op{int}}
+
+\newcommand{\Fix}{\op{Fix}}
+\newcommand{\argmin}{\op{argmin}}
+\newcommand{\Argmin}{\op{Argmin}}
+\newcommand{\diag}{\op{diag}}
+\newcommand{\conv}{\op{conv}}
+
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Ci}{\mathbb{C}}
+\newcommand{\eN}{\mathbb{N}}
+
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\I}{\mathcal{I}}
+
+\newcommand{\rn}{\mathbb{R}\sar{n}}
+\newcommand{\Rm}{\mathbb{R}\sar{m}}
+\newcommand{\conda}{(\lr{A})\xspace}
+\newcommand{\xmu}{x_\mu }
+\newcommand{\umu}{u_\mu }
+\newcommand{\pmu}{\phi_\mu }
+\newcommand{\muk}{\mu_k}
+\newcommand{\ml}{\mu_l}
+\newcommand{\ubar}{\overline{u}}
+\newcommand{\xbar}{\overline{x}}
+\newcommand{\maj}[1][\xmu]{\{ #1 \}}
+\newcommand{\dom}{\op{dom}}
+\newcommand{\xs}{x\sar{*}}
+\newcommand{\hx}{\hat{x}}
+\newcommand{\hg}{\hat{g}}
+\newcommand{\xst}{x\sar{*}(t)}
+\newcommand{\im}[1][I]{#1\ben{-}}
+\newcommand{\myquad}{\;}
+\newcommand{\myst}{\text{\small به طوری که}}
+\newcommand{\myow}{\text{\small در غیر این صورت}}
+
+\newcommand*\sar[1]{^{#1}}
+\newcommand*\ben[1]{_{#1}}
+\newcommand*\tawan[1]{^{#1}}
+\newcommand*\bnsar[2]{_{#1}^{#2}}
+\newcommand*\overflesh[1]{\overset{\xrightarrow{\hspace*{.6cm}}}{#1}}
+
+\newcommand{\ovrline}[1]{\overline{#1}}
+\newcommand{\sarc}{\sar{\circ}}
+
+%-- دستوری برای ایجاد «به پیمانه‌ی y»
+\newcommand*\peymane[1]{\; ({\fontsize{9}{2.15} \selectfont \text{پیمانه‌ی #1}})}
+%-- دستوری برای ایجاد «x به پیمانه‌ی y»
+\newcommand*\bepeymane[2]{\; (\fontsize{9}{2.15} \selectfont \text{#1 به پیمانه‌ی #2})}
+
+%-- دستورات سرعت‌بخش «قاهری» در فرمول‌نویسی ریاضی
+\newcommand*\ta[3]{\mathop {#1} \limits_{#2}^{#3}}
+\newcommand*\sumta[2]{\mathop {\sum} \limits_{#1}^{#2}}
+\newcommand*\tsumta[2]{{\textstyle\mathop {\sum} \nolimits_{#1}^{#2}}}
+\newcommand*\limto[2]{\mathop {\lim} \limits_{#1\to #2}}
+\newcommand*\limdown[2]{\mathop {\lim} \limits_{#1\downarrow #2}}
+
+\newcommand*\down[2]{\mathop {#1} \limits_{#2}}
+\newcommand*\up[2]{\mathop {#1} \limits^{#2}}
+
+%-- دستوراتی برای تعریف علامت باز و بسته‌ی کوتیشن مارک
+\newcommand{\qut}{ "}
+\newcommand{\quti}{`` }
+
+%-- دستور پاورقی pa برای پاورقی‌های لاتین
+\newcommand*\pa[1]{\hspace*{-.05em}\LTRfootnote{\lr{#1}}\hspace*{-.05em}}
+
+\let\oldarraystretch\arraystretch

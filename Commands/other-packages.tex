@@ -1,0 +1,53 @@
+%--
+%-- در این فایل سایر پکیج‌هایی که نیاز دارید را بیاد احضار و استفاده کنید.
+%--
+
+%-- پکیجی برای تولید متون تصادفی فارسی بر گرفته از lipsum
+\usepackage{ptext}
+
+%-- پکیجی برای قرار دادن اشیای شناور با آپشن H سر جای خود
+\usepackage{float}
+
+%-- پکیجی برای مدیریت مراجع اتوماتیک
+%\usepackage[sort&compress]{natbib}
+
+%-- امکان اضافه کردن اشکال کنار هم با زیرنویس مستقل
+%\usepackage{subfig}
+
+%-- پکیجی برای اضافه کردن چند شکل کنار هم (این پکیج با پکیج subfig تداخل دارد)
+\usepackage{subcaption}
+
+\usepackage[thinlines]{easytable}
+
+\usepackage{nicefrac,xfrac}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{geometry}
+\usepackage{tikz}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{subcaption}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{stackengine}
+% ماکروهای امن برای متن لاتین داخل فرمول
+\newcommand{\mtext}[1]{\text{\lr{#1}}}  % متن لاتین کوتاه در حالت ریاضی
+\newcommand{\munit}[1]{\,\text{\lr{#1}}} % واحدها: فاصله نازک + متن لاتین
+% Metadata and convenience macros
+\newcommand{\softwareName}{\lr{DeVana}}
+\newcommand{\softwareVersion}{\lr{v0.4.1}}
+
+% "+=" operator for math mode
+\newcommand{\pluseq}{\mathrel{+}=}
+
+% Bullet that always works (uses math \bullet so no missing-glyph errors)
+\newcommand{\pbullet}{\ensuremath{\bullet}}

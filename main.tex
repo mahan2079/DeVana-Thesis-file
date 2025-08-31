@@ -1,0 +1,132 @@
+%-- شما این قالب را از وبسایت کافه ایکس خریداری کرده‌اید
+%-- هرگونه کپی برداری از این قالب غیر قانونی بوده و پیگرد قانونی در پی خواهد داشت
+%-- چنانچه دوستان شما نیازمند خرید این قالب اختصاصی باشند لینک خرید را در اختیارشان بگذارید.
+
+%-- برای دریافت فایل راهنمای نحوه‌ی استفاده از این قالب
+%-- به لینک زیر از سایت کافه ایکس مراجعه کنید:
+
+%-- help.KaFeX.ir/t/kashan-latex-template/
+
+%-- Copyrighted (c)
+%-- 
+%-- Created by Qaher Marufiazar
+%-- 
+%-- www.KaFeX.ir
+%-- 
+%-- Version: 2020/27/9 | v1.0.0
+%-- 
+%-- 
+%-- LONG LIVE THE BIG KURDISTAN
+
+%--------------------------------
+
+%-- master option for M.Sc Thesis
+%-- phd    option for Ph.D Thesis
+
+\documentclass[12pt, twoside, master]{_DocClass/kfxThesis}
+
+
+%-- اگر نیاز به احضار و استفاده از پکیج‌های دیگر دارید وارد پوشه‌ی Commands شده و فایل other-packages.tex را باز کنید. پکیج‌های خود را آنجا فراخوانی کنید نه اینجا.
+ 
+%-- برای تنظیم مشخصات پایان‌نامه/رساله محتوای این فایل را تغییر دهید:
+\input{Commands/configures.tex}
+ 
+%-- تمامی دستورات لازم و دلخواه خود را داخل این فایل تعریف کنید:
+\input{Commands/user-commands.tex}
+
+\begin{document}
+%-- صفحه بسم ا... 
+\include{other_pages/besm}
+
+%-- صفحه‌ی عنوان
+\include{other_pages/fa-cover}
+
+%-- برگه‌ی صورت جلسه دفاعیه به زبان فارسی
+\include{other_pages/for_style/tasvib_nameh_fa}
+
+%-- برگه‌ی اظهارنامه
+\include{other_pages/for_style/commitments}
+
+%-- صفحه‌ی اهدا تقدیم به (اختیاری)
+\include{other_pages/dedication}
+
+%-- پیشگفتار (مقدمه کلی) پایان‌نامه (اختیاری)
+%\include{other_pages/general_intro}
+
+%-- صفحه‌ی تقدیر و تشکر (اختیاری)
+\include{other_pages/acknowledgement}
+
+%-- چکیده فارسی
+\include{other_pages/fa-abstract}
+\clearpage 
+\pagenumbering{QaherFarsiEnum}
+\kfxThesisCenteredChapterStyle[#1]
+
+%-- فهرست مطالب را ایجاد می‌کند
+\thispagestyle{empty}
+\tableofcontents
+\clearpage 
+%-- فهرستی از جدول و شکل‌ها را ایجاد می‌کند
+\input{other_pages/lot-lof.tex}
+
+%-- فهرست علائم و اختصارات (در صورت وجود)
+\include{other_pages/listofsymbols}
+\pagenumbering{arabic}
+\kfxThesisNewChapterStyle[#1]
+%-- شروع متن اصلی
+%-- فصل اول
+\include{chapters/chapter1}
+%-- فصل دوم
+\include{chapters/chapter2-EOM}
+%-- فصل سوم 
+\include{chapters/chapter3-EOM}
+%-- فصل چهارم 
+\include{chapters/chapter4}
+%-- فصل پنجم
+\include{chapters/chapter5-EOM}
+
+%-- فصل نتیجه‌گیری
+\include{chapters/conclusion}
+%\appendix
+%\include{chapters/appendixA}
+
+\kfxThesisCenteredChapterStyle[#1]
+\linespread{1.4}
+%-- مراجع اتوماتیک با BibTeX
+
+% -- اگر مراجع شما کلا لاتین است این دستور را فعال کنید:
+%\makebibslatin
+
+\bibliographystyle{plain-fa}
+
+%\bibliographystyle{abbrv}
+\bibliography{Bibliographies/bibrefs}
+
+%-- اگر از BibTeX استفاده نمی‌کنید، می‌توانید به صورت دستی مراجع را وارد نمایید. مراجع را بر حسب حروف‌الفبا مرتب کنید و مراجع فارسی را در ابتدای سایر مراجع بیاورید.
+%\include{bibliographies/mybibrefs}
+
+%-- واژه‌نامه‌ی فارسی به انگلیسی (اختیاری)
+\include{other_pages/fa-vocabulary}
+%-- واژه‌نامه‌ی انگلیسی به فارسی (اختیاری)
+\include{other_pages/en-vocabulary}
+
+% -- بخش پیوست‌ها
+
+\kfxThesisNewQaherChapterStyle[#1]
+\begin{QaherAppendix}
+\pagestyle{QaherFancyAppendix}
+%-- پیوست اول (اگر پیوست ندارید این دستو را غیر فعال کنید)
+\input{other_pages/attach1}
+%-- پیوست دوم
+%\include{other_pages/attach2}
+\end{QaherAppendix}
+
+
+%-- چکیده انگلیسی
+\kfxThesisDefaultChapterStyle[#1]
+\linespread{1.4}
+\include{other_pages/en-abstract}
+
+%-- صفحه‌ی عنوان انگلیسی
+\include{other_pages/en-cover}
+\end{document} 

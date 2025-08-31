@@ -1,0 +1,86 @@
+\backcite {asami2002optimum}{{ث}{(document)}{Doc-Start}}
+\backcite {asami2002analytical}{{ج}{(document)}{Doc-Start}}
+\backcite {frahm1911device}{{2}{1\lr {--}1}{section.1.1}}
+\backcite {ormondroyd1928theory}{{2}{1\lr {--}1}{section.1.1}}
+\backcite {frahm1911device}{{3}{1\lr {--}2}{section.1.2}}
+\backcite {ormondroyd1928theory}{{3}{1\lr {--}2}{section.1.2}}
+\backcite {den1985mechanical}{{3}{1\lr {--}2}{section.1.2}}
+\backcite {bishop1952problem}{{3}{1\lr {--}2}{section.1.2}}
+\backcite {brock1946note}{{3}{1\lr {--}2}{section.1.2}}
+\backcite {den1985mechanical}{{3}{1\lr {--}2}{section.1.2}}
+\backcite {carter1961steady}{{4}{1\lr {--}2}{section.1.2}}
+\backcite {thompson1981optimum}{{4}{1\lr {--}3}{section.1.3}}
+\backcite {nishihara2002closed}{{4}{1\lr {--}3}{section.1.3}}
+\backcite {bishop1952problem}{{5}{1\lr {--}3}{section.1.3}}
+\backcite {falcon1967optimization}{{5}{1\lr {--}3}{section.1.3}}
+\backcite {igusa1994vibration}{{5}{1\lr {--}3}{section.1.3}}
+\backcite {clark1988multiple}{{5}{1\lr {--}3}{section.1.3}}
+\backcite {sadek1997method, tsai1993optimum, asami2002h, asami2002analytical}{{5}{1\lr {--}3}{section.1.3}}
+\backcite {saeed2023review, sun2018bi}{{6}{1\lr {--}4\lr {--}1}{subsection.1.4.1}}
+\backcite {saeed2023review}{{6}{1\lr {--}4\lr {--}1}{subsection.1.4.1}}
+\backcite {lee2007real}{{6}{1\lr {--}4\lr {--}1}{subsection.1.4.1}}
+\backcite {sun1995properties, zhang2022understanding, kashani2018numerical, frandsen2005numerical, zhang2015nonlinear}{{6}{1\lr {--}4\lr {--}1}{subsection.1.4.1}}
+\backcite {igusa1994vibration}{{7}{1\lr {--}4\lr {--}2}{subsection.1.4.2}}
+\backcite {clark1988multiple}{{7}{1\lr {--}4\lr {--}2}{subsection.1.4.2}}
+\backcite {nouh2014vibration, aladwani2020mechanics, pai2014acoustic, chavan2023programming}{{7}{1\lr {--}4\lr {--}2}{subsection.1.4.2}}
+\backcite {zuo2005optimization, yang2015optimal, chun2015h, mayer2010approaches}{{7}{1\lr {--}4\lr {--}2}{subsection.1.4.2}}
+\backcite {koutsoloukas2022passive}{{7}{1\lr {--}4\lr {--}2}{subsection.1.4.2}}
+\backcite {vakakis2001inducing}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {saeed2023review}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {wang2016numerical, li2025effectiveness, li2024irreversible}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {yao2020multi, zhang2017piezoelectric, bab2017vibration, jia2020review}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {yao2019tri}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {zoka2019double}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {wierschem2014targeted, wierschem2014experimental}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {habib2019impulsive, habib2021tracking}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {georgiades2009passive, georgiades2007broadband}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {quinn2013effective}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {kecik2022nonlinear, vakakis2022nonlinear, raze2020multimodal}{{8}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {gzal2024enhanced, yang2022research, guo2025vibration, treacy2024irrational, lizunov2024comparison, al2021comparison}{{9}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {wu2022improved, lu2024hybrid, geng2024state, parseh2015performance, zheng2023h, qiu2018theoretical, wu2022estimation}{{9}{1\lr {--}4\lr {--}3}{subsection.1.4.3}}
+\backcite {smith2020inerter}{{9}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {jiang2025optimal}{{9}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {fahimi2025seismic}{{9}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {wei2025comparative}{{9}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {ghaedi2017invited}{{9}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {marian2014optimal}{{9}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {alotta2021improved}{{9}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {jangid2021optimum}{{9}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {wang2019parameters}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {zheng2022energy}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {su2023analytical}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {smith2020inerter}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {chen2019inerter}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {chowdhury2024critical}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {wang2023dual}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {zoka2019double}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {li2023bi}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {yuan2018simultaneous}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {hasheminejad2024energy}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {huang2023towards}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {qiu2018theoretical}{{10}{1\lr {--}4\lr {--}4}{subsection.1.4.4}}
+\backcite {chang1980structural}{{11}{1\lr {--}5}{section.1.5}}
+\backcite {soong1991full}{{11}{1\lr {--}5}{section.1.5}}
+\backcite {yu2016active, ulusoy2021metaheuristic, casciati2012active, morales2015active}{{11}{1\lr {--}5}{section.1.5}}
+\backcite {christenson2002semiactive}{{11}{1\lr {--}5}{section.1.5}}
+\backcite {housner1997structural}{{11}{1\lr {--}5}{section.1.5}}
+\backcite {chey2007passive, stanikzai2022recent, rahimi2020application, chesne2019innovative, el2013recent}{{11}{1\lr {--}5}{section.1.5}}
+\backcite {pastia2013vibration, kim2015control, yan2023seismic, demetriou2016novel, liedes2009improving}{{12}{1\lr {--}5}{section.1.5}}
+\backcite {eroglu2013observer, jenivssemi, masa2023review, peng2011development}{{12}{1\lr {--}5}{section.1.5}}
+\backcite {nagarajaiah2005short}{{12}{1\lr {--}5}{section.1.5}}
+\backcite {nagarajaiah2009adaptive}{{12}{1\lr {--}5}{section.1.5}}
+\backcite {ali2008semi, nguyen2018modeling, zhang2023seismic, kim2012semi, li2006fuzzy}{{12}{1\lr {--}5}{section.1.5}}
+\backcite {yamaguchi1993fundamental}{{12}{1\lr {--}5}{section.1.5}}
+\backcite {ali2009optimal}{{12}{1\lr {--}5}{section.1.5}}
+\backcite {casciati2012active}{{12}{1\lr {--}5}{section.1.5}}
+\backcite {chaudhary2021review}{{13}{1\lr {--}6\lr {--}1}{subsection.1.6.1}}
+\backcite {mohebbi2013designing, colherinhas2019optimal, lavan2017multi, etedali2018optimum}{{13}{1\lr {--}6\lr {--}1}{subsection.1.6.1}}
+\backcite {balaji2021applications, shami2022particle}{{13}{1\lr {--}6\lr {--}1}{subsection.1.6.1}}
+\backcite {shamseldin2024ai}{{13}{1\lr {--}6\lr {--}1}{subsection.1.6.1}}
+\backcite {ahmad2022differential}{{13}{1\lr {--}6\lr {--}1}{subsection.1.6.1}}
+\backcite {zhe2019application}{{14}{1\lr {--}6\lr {--}1}{subsection.1.6.1}}
+\backcite {chang1980structural, housner1997structural}{{34}{3\lr {--}1}{section.3.1}}
+\backcite {chang1980structural, housner1997structural}{{35}{3\lr {--}2}{section.3.2}}
+\backcite {asami2002analytical}{{49}{3\lr {--}4\lr {--}2}{figure.caption.15}}
+\backcite {asami2002analytical}{{50}{3\lr {--}5}{figure.caption.16}}
+\backcite {asami2002optimum}{{50}{3\lr {--}4}{table.caption.17}}

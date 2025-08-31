@@ -1,0 +1,40 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2\lr {--}1}{\ignorespaces شماتیکی از سیستم کاملاً کوپل‌شده \lr {2DOF-3DOF}}}{18}{figure.caption.6}%
+\contentsline {figure}{\numberline {2\lr {--}2}{\ignorespaces نمای شماتیک از یک سیستم کاملاً کوپل‌شده \lr {1DOF–1DOF} (مدل کاهش‌یافته مرجع)}}{27}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3\lr {--}2}{\ignorespaces نمای کلی از الگوریتم پیشنهادی شامل (الف) استخراج توابع جداسازی‌شده \lr {DPS} از مدل کامللا کوپل شده و (ب) بهینه‌سازی پارامترهای جاذب بر پایه این توابع. هر زیرشکل در صورت نیاز به‌صورت مجزا در یک صفحه نمایش داده می‌شود.}}{43}{figure.caption.10}%
+\contentsline {figure}{\numberline {3\lr {--}3}{\ignorespaces مقایسه روش‌های برازش چندجمله‌ای برای تابع \lr {DPS}: (الف) خطی، (ب) درجه دوم، (ج) درجه سوم، (د) درجه چهارم. خط‌چین قرمز: برازش ایده‌آل، نقاط: مقادیر واقعی در برابر مقادیر پیش‌بینی‌شده}}{46}{figure.caption.12}%
+\contentsline {figure}{\numberline {3\lr {--}4}{\ignorespaces مقایسه \lr {FRF} بین روش \lr {DPS} و نمونه‌های برتر، میانگین و ضعیف الگوریتم ژنتیک برای سیستم مرجع}}{49}{figure.caption.15}%
+\contentsline {figure}{\numberline {3\lr {--}5}{\ignorespaces شماتیک سیستم مورد استفاده برای اعتبارسنجی، برگرفته از \lr {Asami et al.} \cite {asami2002analytical}}}{50}{figure.caption.16}%
+\contentsline {figure}{\numberline {3\lr {--}6}{\ignorespaces مقایسه پاسخ‌های فرکانسی و معیار \lr {PS} بین روش \lr {DPS} و پاسخ‌های تحلیلی \lr {Asami}}}{51}{figure.caption.18}%
+\contentsline {figure}{\numberline {3\lr {--}7}{\ignorespaces توابع پاسخ فرکانسی (\lr {FRF}) سیستم \lr {1} پس از بهینه‌سازی با روش \lr {DPS} در بازه‌های پارامتری مختلف.}}{55}{figure.caption.24}%
+\contentsline {figure}{\numberline {3\lr {--}8}{\ignorespaces تحلیل حساسیت $A_{\mathrm {Low}}$ و $A_{\mathrm {Up}}$ برای تغییرات مختلف پارامترهای \lr {DVA}.}}{57}{figure.caption.25}%
+\contentsline {figure}{\numberline {3\lr {--}9}{\ignorespaces تحلیل حساسیت $F$ برای تغییرات مختلف پارامترهای \lr {DVA}.}}{57}{figure.caption.26}%
+\contentsline {figure}{\numberline {3\lr {--}10}{\ignorespaces تحلیل حساسیت $N$ برای تغییرات مختلف پارامترهای \lr {DVA}.}}{57}{figure.caption.27}%
+\contentsline {figure}{\numberline {3\lr {--}11}{\ignorespaces تحلیل حساسیت $\Lambda $ برای تغییرات مختلف پارامترهای \lr {DVA}.}}{58}{figure.caption.28}%
+\contentsline {figure}{\numberline {3\lr {--}12}{\ignorespaces تحلیل حساسیت $\omega _{dc}$ برای تغییرات مختلف پارامترهای \lr {DVA}.}}{58}{figure.caption.29}%
+\contentsline {figure}{\numberline {3\lr {--}13}{\ignorespaces تحلیل حساسیت $\zeta _{dc}$ برای تغییرات مختلف پارامترهای \lr {DVA} در دو بازه متمایز.}}{59}{figure.caption.30}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4\lr {--}1}{\ignorespaces پاسخ فرکانسیِ جرمِ اصلی در حالتِ بدون \lr {DVA} و با \lr {DVA} بهینه‌شده در بازه \lr {0–2200 Hz}. در حضور \lr {DVA} بهینه، دو قله در مجاورتِ \lr {1000 Hz} و \lr {2000 Hz} شکل می‌گیرد و درونِ باندِ اجتناب قله رزونانس مشاهده نمی‌شود.}}{64}{figure.caption.32}%
+\contentsline {figure}{\numberline {4\lr {--}2}{\ignorespaces روندِ همگراییِ الگوریتمِ ژنتیک: بهترین و میانگینِ برازندگی در طولِ \lr {500} نسل. بهترینِ برازندگی از \lr {0.042936} به \lr {0.001206} کاهش یافته است و شکافِ پایدار میان «میانگین» و «بهترین» نشان‌دهنده حفظِ تنوعِ جمعیت است.}}{66}{figure.caption.33}%
+\contentsline {figure}{\numberline {4\lr {--}3}{\ignorespaces تفکیکِ سهمِ مؤلفه‌هایِ تابعِ هدف در مقدارِ نهایی \(f=0.001206\): مؤلفه هدفِ اصلی \lr {40.8\%}، جریمه تنکی \lr {34.7\%}، و مؤلفه خطایِ درصدی \lr {24.5\%}.}}{66}{figure.caption.34}%
+\contentsline {figure}{\numberline {4\lr {--}4}{\ignorespaces نرخ بهبودِ به‌ازای هر نسل در طول \(500\) نسل. قله‌های بزرگ در فاز آغازین مشاهده می‌شوند و سپس نرخ بهبود به مقادیر نزدیک به صفر می‌رسد؛ میانگین نرخ بهبود \(8.4\times 10^{-5}\) به‌ازای هر نسل است.}}{67}{figure.caption.35}%
+\contentsline {figure}{\numberline {4\lr {--}5}{\ignorespaces همگراییِ \(\mu _1\) در طول \(500\) نسل: مقدار آغازین \(0.393887\)، مقدار نهایی \(0.367131\)، کاهش خالص \(0.026756\)، شیب روند خطی \(-3.41\times 10^{-4}\) به‌ازای هر نسل، میانگین افزایشِ نسل‌به‌نسل \(-5.4\times 10^{-5}\)، گستره \(0.2159\) و انحراف معیار \(0.0535\).}}{68}{figure.caption.36}%
+\contentsline {figure}{\numberline {4\lr {--}6}{\ignorespaces همگراییِ پارامترهای \(\beta \): (a) \(\beta _1\).}}{69}{figure.caption.37}%
+\contentsline {figure}{\numberline {4\lr {--}6}{\ignorespaces (b) \(\beta _7\).}}{70}{figure.caption.38}%
+\contentsline {figure}{\numberline {4\lr {--}6}{\ignorespaces (c) \(\beta _8\).}}{71}{figure.caption.39}%
+\contentsline {figure}{\numberline {4\lr {--}7}{\ignorespaces همگراییِ پارامترهای \(\lambda \): (a) \(\lambda _1\).}}{72}{figure.caption.40}%
+\contentsline {figure}{\numberline {4\lr {--}7}{\ignorespaces (b) \(\lambda _7\).}}{73}{figure.caption.41}%
+\contentsline {figure}{\numberline {4\lr {--}7}{\ignorespaces (c) \(\lambda _8\).}}{74}{figure.caption.42}%
+\contentsline {figure}{\numberline {4\lr {--}8}{\ignorespaces همگراییِ پارامترهای \(\nu \): (a) \(\nu _1\).}}{75}{figure.caption.43}%
+\contentsline {figure}{\numberline {4\lr {--}8}{\ignorespaces (b) \(\nu _7\).}}{75}{figure.caption.44}%
+\contentsline {figure}{\numberline {4\lr {--}8}{\ignorespaces (c) \(\nu _8\).}}{76}{figure.caption.45}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5\lr {--}1}{\ignorespaces ساختار اصلی نرم‌افزار \lr {DeVana} - بخش اول}}{81}{figure.caption.47}%
+\contentsline {figure}{\numberline {5\lr {--}2}{\ignorespaces ساختار رابط کاربری نرم‌افزار \lr {DeVana}}}{82}{figure.caption.48}%
+\contentsline {figure}{\numberline {5\lr {--}3}{\ignorespaces ماژول‌های کاربردی و دامنه‌ای نرم‌افزار \lr {DeVana}}}{82}{figure.caption.49}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 
+\contentsfinish 

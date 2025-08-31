@@ -1,0 +1,93 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: other_pages/besm.aux
+A level-1 auxiliary file: other_pages/fa-cover.aux
+A level-1 auxiliary file: other_pages/for_style/tasvib_nameh_fa.aux
+A level-1 auxiliary file: other_pages/for_style/commitments.aux
+A level-1 auxiliary file: other_pages/dedication.aux
+A level-1 auxiliary file: other_pages/acknowledgement.aux
+A level-1 auxiliary file: other_pages/fa-abstract.aux
+A level-1 auxiliary file: other_pages/listofsymbols.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2-EOM.aux
+A level-1 auxiliary file: chapters/chapter3-EOM.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5-EOM.aux
+A level-1 auxiliary file: chapters/conclusion.aux
+The style file: plain-fa.bst
+A level-1 auxiliary file: other_pages/fa-vocabulary.aux
+A level-1 auxiliary file: other_pages/en-vocabulary.aux
+A level-1 auxiliary file: other_pages/en-abstract.aux
+A level-1 auxiliary file: other_pages/en-cover.aux
+Database file #1: Bibliographies/bibrefs.bib
+Warning--I didn't find a database entry for "asami2002optimum"
+Warning--to sort, need author or key in ulusoy2021metaheuristic
+Warning--to sort, need author or key in jenivssemi
+-- plain-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty author in jenivssemi
+Warning--empty journal in jenivssemi
+Warning--empty year in jenivssemi
+Warning--empty author in ulusoy2021metaheuristic
+Warning--empty school in ali2008semi
+Warning--empty journal in brock1946note
+Warning--empty journal in carter1961steady
+Warning--can't use both volume and number fields in chaudhary2021review
+Warning--empty school in chavan2023programming
+Warning--empty journal in chey2007passive
+Warning--empty school in eroglu2013observer
+Warning--empty journal in frahm1911device
+Warning--empty journal in liedes2009improving
+Warning--can't use both volume and number fields in masa2023review
+Warning--can't use both volume and number fields in mayer2010approaches
+Warning--empty school in nguyen2018modeling
+Warning--empty school in peng2011development
+Warning--empty school in qiu2018theoretical
+Warning--empty journal in quinn2013effective
+Warning--empty school in wu2022improved
+Warning--can't use both volume and number fields in zhe2019application
+
+Done.
+You've used 124 entries,
+            2546 wiz_defined-function locations,
+            1313 strings with 29264 characters,
+and the built_in function-call counts, 46638 in all, are:
+= -- 4209
+> -- 2134
+< -- 17
++ -- 856
+- -- 716
+* -- 3312
+:= -- 7227
+add.period$ -- 369
+call.type$ -- 124
+change.case$ -- 716
+chr.to.int$ -- 0
+cite$ -- 147
+duplicate$ -- 1457
+empty$ -- 3169
+format.name$ -- 716
+if$ -- 10639
+int.to.chr$ -- 0
+int.to.str$ -- 124
+missing$ -- 1110
+newline$ -- 1119
+num.names$ -- 244
+pop$ -- 590
+preamble$ -- 1
+purify$ -- 604
+quote$ -- 0
+skip$ -- 1020
+stack$ -- 0
+substring$ -- 2997
+swap$ -- 225
+text.length$ -- 17
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 486
+warning$ -- 23
+while$ -- 423
+width$ -- 127
+write$ -- 1716
+(There were 24 warnings)

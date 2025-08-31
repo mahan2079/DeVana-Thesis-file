@@ -1,0 +1,348 @@
+
+
+\chapter{معرفی نرم‌افزار نوآورانه \lr{DeVana}}
+
+\section{چالش عدم تکرارپذیری نتایج بهینه‌سازی}
+
+در فرآیند بهینه‌سازی پارامترهای جاذب‌های دینامیکی ارتعاشات (\lr{Dynamic Vibration Absorbers - DVAs})، یکی از چالش‌های اساسی که طراحان با آن مواجه هستند، عدم تکرارپذیری نتایج است. به عبارت دیگر، فارغ از روش بهینه‌سازی انتخاب شده و اجرای موفق فرآیند بهینه‌سازی، مجموعه پارامترهای بهینه به دست آمده در هر اجرا متفاوت است و نمی‌توان به یک جواب منحصر به فرد دست یافت.
+
+این مسئله نه تنها ناشی از ماهیت تصادفی الگوریتم‌های بهینه‌سازی است، بلکه ریشه در پیچیدگی فضای طراحی، وجود چندین مینیمم محلی، و تأثیر پارامترهای مختلف سیستم دارد. در شرایط عملیاتی واقعی، این عدم قطعیت می‌تواند منجر به تصمیم‌گیری‌های نادرست شود و نیاز به رویکردی جامع‌تر برای تحلیل و اعتبارسنجی نتایج دارد.
+
+\section{نیاز به مفهوم «زمین بازی» برای طراحان}
+
+چالش عدم تکرارپذیری نتایج، ضرورت وجود یک محیط انعطاف‌پذیر را برای طراحان برجسته می‌کند که بتوانند آزادانه در فضای طراحی حرکت کنند و از روش‌های مختلف تحلیل استفاده نمایند. این مفهوم که ما آن را «زمین بازی» می‌نامیم، به طراحان اجازه می‌دهد تا:
+
+\begin{enumerate}
+\item روش‌های بهینه‌سازی مختلف را با تنظیمات متفاوت مقایسه کنند
+\item تحلیل آماری بر روی نتایج چند اجرای مختلف انجام دهند
+\item فضای طراحی را تغییر داده و تأثیر آن را بررسی کنند
+\item روش‌های تحلیل حساسیت را برای درک بهتر روابط بین پارامترها اعمال کنند
+\item تصمیم‌گیری آگاهانه بر اساس مجموعه کاملی از تحلیل‌ها انجام دهند
+\end{enumerate}
+
+این رویکرد نه تنها به حل مسئله عدم تکرارپذیری کمک می‌کند، بلکه قدرت تصمیم‌گیری طراحان را در شرایط پیچیده عملیاتی افزایش می‌دهد.
+
+\section{معرفی \lr{DeVana}: اولین نرم‌افزار از نوع خود}
+
+برای پاسخ به این نیازها، نرم‌افزار نوآورانه \lr{DeVana} توسط نویسندگان این پایان‌نامه توسعه یافته است. \lr{DeVana} اولین نرم‌افزار از نوع خود در جهان است که به صورت متن‌باز ارائه شده و محیط کاملی برای طراحی و بهینه‌سازی جاذب‌های دینامیکی ارتعاشات فراهم می‌آورد.
+
+این نرم‌افزار با رویکردی جامع، تمامی روش‌های توسعه‌یافته در این پژوهش را پیاده‌سازی کرده و زمین بازی نهایی برای طراحان محسوب می‌شود. \lr{DeVana} نه تنها امکان اجرای الگوریتم‌های بهینه‌سازی پیشرفته را فراهم می‌آورد، بلکه ابزارهای متنوعی برای تحلیل و مقایسه نتایج در اختیار طراحان قرار می‌دهد.
+
+\section{قابلیت‌های بهینه‌سازی در \lr{DeVana}}
+
+\lr{DeVana} مجموعه کاملی از الگوریتم‌های بهینه‌سازی پیشرفته را ارائه می‌دهد که هر کدام با ویژگی‌های منحصر به فرد خود، پاسخگوی نیازهای مختلف طراحان هستند:
+
+\subsection{الگوریتم ژنتیک (\lr{Genetic Algorithm - GA})}
+
+این الگوریتم که پایه بسیاری از روش‌های بهینه‌سازی هوشمند است، با قابلیت کنترل تطبیقی پارامترها ارائه شده است. طراحان می‌توانند نرخ جهش، اندازه جمعیت، و استراتژی انتخاب را به صورت دینامیکی تنظیم کنند تا بهترین عملکرد را در فضای طراحی پیچیده به دست آورند.
+
+\subsection{بهینه‌سازی ازدحام ذرات (\lr{Particle Swarm Optimization - PSO})}
+
+روش \lr{PSO} با قابلیت پشتیبانی از توپولوژی‌های مختلف (حلقه‌ای، ستاره‌ای، و تصادفی) پیاده‌سازی شده است. این روش امکان تنظیم پارامترهای یادگیری اجتماعی و فردی را فراهم می‌آورد و برای مسائل با فضای جستجوی پیوسته بسیار کارآمد است.
+
+\subsection{تفاوت‌گیری (\lr{Differential Evolution - DE})}
+
+الگوریتم \lr{DE} با استراتژی‌های مختلف جهش و ترکیب، امکان کاوش کارآمد فضای طراحی را فراهم می‌آورد. این روش به ویژه برای مسائل با محدودیت‌های غیرخطی مناسب است و قابلیت تنظیم پارامترهای جهش و متقاطع را ارائه می‌دهد.
+
+\subsection{شبیه‌سازی آنیلینگ (\lr{Simulated Annealing - SA})}
+
+روش \lr{SA} با قابلیت کنترل دینامیکی دما و استراتژی‌های پذیرشی مختلف، امکان فرار از مینیمم‌های محلی را فراهم می‌آورد. این روش برای مسائل ترکیبی و پیوسته کاربرد دارد.
+
+\subsection{استراتژی‌های تکاملی (\lr{Covariance Matrix Adaptation Evolution Strategy - CMA-ES})}
+
+این روش پیشرفته با قابلیت تطبیق ماتریس کوواریانس، امکان مدل‌سازی توزیع احتمالاتی فضای جستجو را فراهم می‌آورد و برای مسائل با وابستگی پیچیده بین پارامترها بسیار کارآمد است.
+
+\subsection{یادگیری تقویتی (\lr{Reinforcement Learning - RL})}
+
+روش \lr{RL} با قابلیت یادگیری از تعامل با محیط، امکان توسعه استراتژی‌های بهینه‌سازی تطبیقی را فراهم می‌آورد که می‌تواند با شرایط مسئله سازگار شود.
+
+\section{قابلیت‌های تحلیل حساسیت}
+
+\lr{DeVana} ابزارهای پیشرفته‌ای برای تحلیل حساسیت ارائه می‌دهد که به طراحان کمک می‌کنند تا تأثیر هر پارامتر بر عملکرد سیستم را درک کنند:
+
+\subsection{تحلیل حساسیت سوبول (\lr{Sobol Sensitivity Analysis})}
+
+این روش امکان محاسبه شاخص‌های حساسیت کلی و جزئی را فراهم می‌آورد و به طراحان کمک می‌کند تا پارامترهای کلیدی که بیشترین تأثیر را بر عملکرد سیستم دارند، شناسایی کنند.
+
+\subsection{تحلیل حساسیت امگا (\lr{Omega Sensitivity Analysis})}
+
+روش \lr{امگا} با قابلیت تحلیل حساسیت بر حسب دامنه تغییرات پارامترها، امکان ارزیابی تأثیر نسبی هر پارامتر را در شرایط عملیاتی مختلف فراهم می‌آورد.
+
+\section{قابلیت‌های تحلیل آماری}
+
+یکی از ویژگی‌های منحصر به فرد \lr{DeVana}، قابلیت انجام تحلیل آماری بر روی نتایج چند اجرای مختلف است:
+
+\subsection{آمار توصیفی نتایج}
+
+نرم‌افزار امکان محاسبه میانگین، واریانس، و سایر آمار توصیفی برای مجموعه نتایج چند اجرا را فراهم می‌آورد.
+
+\subsection{تحلیل توزیع احتمالاتی}
+
+با استفاده از تکنیک‌های آماری پیشرفته، طراحان می‌توانند توزیع احتمالاتی پارامترهای بهینه را تحلیل کرده و اطمینان‌پذیری نتایج را ارزیابی کنند.
+
+\subsection{مقایسه روش‌های مختلف}
+
+\lr{DeVana} امکان مقایسه آماری عملکرد روش‌های بهینه‌سازی مختلف را فراهم می‌آورد و به طراحان کمک می‌کند تا بهترین روش را برای مسئله خاص خود انتخاب کنند.
+
+\section{ساختار نرم‌افزاری \lr{DeVana}}
+
+\subsection{معماری کلی}
+
+نرم‌افزار \lr{DeVana} با معماری ماژولار و انعطاف‌پذیر طراحی شده است که امکان توسعه و افزودن قابلیت‌های جدید را فراهم می‌آورد. ساختار اصلی نرم‌افزار شامل بخش‌های زیر است:
+
+\subsection{شاخص‌بندی ساختار نرم‌افزار}
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+    level 1/.style={sibling distance=4.2cm, level distance=2.0cm},
+    level 2/.style={sibling distance=3.0cm, level distance=1.6cm},
+    level 3/.style={sibling distance=2.2cm, level distance=1.3cm},
+    every node/.style={
+        draw,
+        rectangle,
+        rounded corners=3pt,
+        text width=3.2cm,
+        minimum height=0.9cm,
+        inner sep=3pt,
+        align=center,
+        font=\footnotesize
+    },
+    root/.style={
+        fill=blue!20,
+        font=\small\bfseries
+    },
+    main/.style={
+        fill=green!20,
+        font=\footnotesize
+    },
+    worker/.style={
+        fill=orange!20,
+        font=\footnotesize
+    }
+]
+
+% Root
+\node[root] {\lr{codes/}}
+    child {
+        node[main] {\lr{run.py}\\فایل اصلی اجرا}
+    }
+    child {
+        node[main] {\lr{mainwindow.py}\\پنجره اصلی}
+    }
+    child {
+        node[main] {\lr{app\_info.py}\\اطلاعات برنامه}
+    }
+    child {
+        node[main] {\lr{computational\_}\\\lr{metrics\_new.py}\\متریک‌های محاسباتی}
+    }
+    child {
+        node[worker] {\lr{workers/}}
+        child {
+            node[worker] {\lr{GAWorker.py}\\الگوریتم ژنتیک}
+        }
+        child {
+            node[worker] {\lr{PSOWorker.py}\\ازدحام ذرات}
+        }
+        child {
+            node[worker] {\lr{DEWorker.py}\\تفاوت‌گیری}
+        }
+        child {
+            node[worker] {\lr{SAWorker.py}\\شبیه‌سازی تبرید}
+        }
+        child {
+            node[worker] {\lr{CMAESWorker.py}\\استراتژی تکاملی}
+        }
+        child {
+            node[worker] {\lr{SobolWorker.py}\\تحلیل سوبول}
+        }
+        child {
+            node[worker] {\lr{FRFWorker.py}\\پاسخ فرکانسی}
+        }
+        child {
+            node[worker] {\lr{MemorySeeder.py}\\مدیریت حافظه}
+        }
+        child {
+            node[worker] {\lr{NeuralSeeder.py}\\بذردهی عصبی}
+        }
+    };
+
+\end{tikzpicture}
+\caption{ساختار اصلی نرم‌افزار \lr{DeVana} - بخش اول}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+    level 1/.style={sibling distance=4.0cm, level distance=2.0cm},
+    level 2/.style={sibling distance=2.8cm, level distance=1.6cm},
+    level 3/.style={sibling distance=2.0cm, level distance=1.3cm},
+    every node/.style={
+        draw,
+        rectangle,
+        rounded corners=3pt,
+        text width=3.1cm,
+        minimum height=0.9cm,
+        inner sep=3pt,
+        align=center,
+        font=\footnotesize
+    },
+    gui/.style={
+        fill=purple!20,
+        font=\footnotesize
+    }
+]
+
+% GUI Branch
+\node[gui] {\lr{gui/}\\رابط کاربری}
+    child {
+        node[gui] {\lr{main\_window/}}
+        child {
+            node[gui] {\lr{ga\_mixin.py}\\رابط \lr{GA}}
+        }
+        child {
+            node[gui] {\lr{pso\_mixin.py}\\رابط \lr{PSO}}
+        }
+        child {
+            node[gui] {\lr{de\_mixin.py}\\رابط \lr{DE}}
+        }
+        child {
+            node[gui] {\lr{sobol\_mixin.py}\\رابط سوبول}
+        }
+        child {
+            node[gui] {\lr{omega\_sensitivity\_}\\\lr{mixin.py}\\حساسیت \lr{امگا}}
+        }
+        child {
+            node[gui] {\lr{frf\_mixin.py}\\رابط \lr{FRF}}
+        }
+    }
+    child {
+        node[gui] {\lr{menu\_mixin.py}\\میکسین منو}
+    }
+    child {
+        node[gui] {\lr{beam\_mixin.py}\\میکسین تیر}
+    }
+    child {
+        node[gui] {\lr{widgets.py}\\ابزارک‌های سفارشی}
+    };
+
+\end{tikzpicture}
+\caption{ساختار رابط کاربری نرم‌افزار \lr{DeVana}}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+    level 1/.style={sibling distance=4.2cm, level distance=2.0cm},
+    level 2/.style={sibling distance=3.0cm, level distance=1.6cm},
+    level 3/.style={sibling distance=2.2cm, level distance=1.3cm},
+    every node/.style={
+        draw,
+        rectangle,
+        rounded corners=3pt,
+        text width=3.0cm,
+        minimum height=0.9cm,
+        inner sep=3pt,
+        align=center,
+        font=\footnotesize
+    },
+    module/.style={
+        fill=yellow!20,
+        font=\footnotesize
+    },
+    domainNode/.style={
+        fill=red!20,
+        font=\footnotesize
+    }
+]
+
+% Modules and Domain
+\node[module] {\lr{modules/}\\ماژول‌های کاربردی}
+    child {
+        node[module] {\lr{FRF.py}\\تحلیل پاسخ فرکانسی}
+    }
+    child {
+        node[module] {\lr{sobol\_sensitivity.py}\\تحلیل حساسیت سوبول}
+    };
+
+\node[domainNode, below=2.0cm] {\lr{Continues\_beam/}\\تحلیل تیر پیوسته}
+    child {
+        node[domainNode] {\lr{beam/}}
+        child {
+            node[domainNode] {\lr{fem.py}\\عناصر محدود}
+        }
+        child {
+            node[domainNode] {\lr{solver.py}\\حل‌کننده ارتعاشات}
+        }
+        child {
+            node[domainNode] {\lr{properties.py}\\خواص مواد}
+        }
+    }
+    child {
+        node[domainNode] {\lr{ui/}\\رابط کاربری تیر}
+    }
+    child {
+        node[domainNode] {\lr{utils.py}\\ابزارهای کمکی}
+    };
+
+\node[domainNode, below=4.0cm] {\lr{RL/}\\یادگیری تقویتی};
+\node[module, below=5.0cm] {\lr{src/}\\منابع اضافی};
+
+\end{tikzpicture}
+\caption{ماژول‌های کاربردی و دامنه‌ای نرم‌افزار \lr{DeVana}}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption{راهنمای رنگ‌بندی ساختار نرم‌افزار}
+\begin{tabular}{|c|l|p{8cm}|}
+\hline
+\textbf{رنگ} & \textbf{نوع ماژول} & \textbf{توضیحات} \\
+\hline
+\cellcolor{blue!20} آبی & هسته اصلی & فایل‌های اصلی اجرا و مدیریت برنامه \\
+\hline
+\cellcolor{green!20} سبز & فایل‌های اجرایی & فایل‌های مسئول راه‌اندازی و کنترل کلی \\
+\hline
+\cellcolor{orange!20} نارنجی & کارگران & ماژول‌های پردازش موازی و الگوریتم‌ها \\
+\hline
+\cellcolor{purple!20} بنفش & رابط کاربری & اجزای مربوط به تعامل با کاربر \\
+\hline
+\cellcolor{yellow!20} زرد & ماژول‌های کاربردی & ابزارهای تحلیلی و محاسباتی \\
+\hline
+\cellcolor{red!20} قرمز & دامنه‌ای & ماژول‌های تخصصی و کاربردهای خاص \\
+\hline
+\end{tabular}
+\end{table}
+\subsection{توضیح ساختار}
+
+\subsubsection{لایه اجرایی (\lr{Execution Layer})}
+
+این لایه شامل فایل‌های اصلی \lr{run.py} و \lr{mainwindow.py} است که مسئولیت راه‌اندازی برنامه و مدیریت رابط کاربری اصلی را بر عهده دارند.
+
+\subsubsection{لایه کارگران (\lr{Workers Layer})}
+
+لایه \lr{workers} شامل کلاس‌های پردازش موازی است که هر کدام مسئول اجرای یک الگوریتم بهینه‌سازی یا تحلیل خاص هستند. این طراحی امکان اجرای همزمان چند روش را فراهم می‌آورد.
+
+\subsubsection{لایه رابط کاربری (\lr{GUI Layer})}
+
+لایه \lr{gui} با معماری میکسین، امکان ترکیب قابلیت‌های مختلف را فراهم می‌آورد. هر میکسین مسئول مدیریت یک جنبه خاص از رابط کاربری است.
+
+\subsubsection{لایه کاربردی (\lr{Modules Layer})}
+
+این لایه شامل ماژول‌های کاربردی مانند تحلیل پاسخ فرکانسی و تحلیل حساسیت است که توسط چندین قسمت برنامه استفاده می‌شوند.
+
+\subsubsection{لایه دامنه (\lr{Domain Layer})}
+
+لایه \lr{Continues\_beam} و \lr{RL} به ترتیب مسئول تحلیل تیرهای پیوسته و یادگیری تقویتی هستند و قابلیت‌های تخصصی نرم‌افزار را ارائه می‌دهند.
+
+\section{نتیجه‌گیری}
+
+نرم‌افزار \lr{DeVana} با ارائه محیطی جامع و انعطاف‌پذیر، پاسخ کاملی به چالش‌های طراحی جاذب‌های دینامیکی ارتعاشات ارائه می‌دهد. این نرم‌افزار نه تنها تمامی روش‌های توسعه‌یافته در این پژوهش را پیاده‌سازی کرده، بلکه با معماری ماژولار خود، امکان توسعه آینده و افزودن قابلیت‌های جدید را فراهم می‌آورد.
+
+\lr{DeVana} به عنوان اولین نرم‌افزار از نوع خود، زمین بازی نهایی برای طراحان محسوب می‌شود که در آن می‌توانند آزادانه روش‌های مختلف را مقایسه کرده، تحلیل‌های متنوعی انجام دهند، و تصمیم‌گیری‌های آگاهانه‌تری اتخاذ کنند. این نرم‌افزار گامی بزرگ در جهت کاربردی‌سازی نتایج پژوهشی و تسهیل فرآیند طراحی در مهندسی مکانیک برمی‌دارد. 
+
+
+
+
+
+
